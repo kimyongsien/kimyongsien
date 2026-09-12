@@ -13,10 +13,10 @@
     <td width="55%" valign="top">
       <h3>🚀 About Me</h3>
       <ul>
-        <li>🎓 4th-Year IT Engineering Student at the Royal University of Phnom Penh.</li>
-        <li>💻 Currently building user interfaces and admin flows for the <strong>Home Stay</strong> platform.</li>
-        <li>⚙️ Experienced in IT support, network configuration, and POS system deployment.</li>
-        <li>🌍 Planning to participate in a study abroad exchange program!</li>
+        <li>4th-Year IT Engineering Student at the Royal University of Phnom Penh.</li>
+        <li>Currently building user interfaces and admin flows for the <strong>Home Stay</strong> platform.</li>
+        <li>Experienced in IT support, network configuration, and POS system deployment.</li>
+        <li>Planning to participate in a study abroad exchange program!</li>
       </ul>
     </td>
     <td width="45%" valign="top">
