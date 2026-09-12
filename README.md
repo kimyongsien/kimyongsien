@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=ADD8E6&center=true&vCenter=true&width=800&lines=Hi+There,+I'm+KimYong+👋;Full-Stack+Web+Developer;IT+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+There,+I'm+KimYong+👋;Full-Stack+Web+Developer;IT+Engineering+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,9 +22,6 @@
     <td width="45%" valign="top">
       <h3>🛠️ Tech Stack & Tools</h3>
       <p align="center">
-<td width="45%" valign="top">
-      <h3>🛠️ Tech Stack & Tools</h3>
-      <p align="center">
         <!-- Languages -->
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,8 +36,6 @@
         <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-      </p>
-    </td>
       </p>
     </td>
   </tr>
