@@ -11,7 +11,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>🚀 About Me</h3>
+      <h3>About Me</h3>
       <ul>
         <li>4th-Year IT Engineering Student at the Royal University of Phnom Penh.</li>
         <li>Currently building user interfaces and admin flows for the <strong>Home Stay</strong> platform.</li>
@@ -20,7 +20,7 @@
       </ul>
     </td>
     <td width="45%" valign="top">
-      <h3>🛠️ Tech Stack & Tools</h3>
+      <h3>Tech Stack & Tools</h3>
       <p align="center">
         <!-- Languages -->
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
