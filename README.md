@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hello,+I'm+a+Developer;Next.js+%26+Supabase;Point-of-Sale+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hello+There+I'm+KimYong" alt="Typing SVG" />
 </p>
 <!--
 **kimyongsien/kimyongsien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
